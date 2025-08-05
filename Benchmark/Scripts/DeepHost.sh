@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --partition=cpu
+#SBATCH --partition=gpu
 #SBATCH --exclusive
 #SBATCH --time=144:00:00
 #SBATCH --job-name=deephost
