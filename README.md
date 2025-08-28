@@ -6,13 +6,11 @@ By providing a rigorous, comparative analysis, this review serves two critical f
 
 Our key contributions are:
 
-\begin{itemize}
-    \item \textbf{A standardized problem formulation:} We establish a structured framework for the virus-host prediction problem, providing a consistent foundation for understanding and comparing diverse computational strategies.
-    \vspace{-0.1cm}
-    \item \textbf{A comprehensive survey of tools and biological features:} We critically evaluate 27 existing tools, analyzing their methodologies, strengths, and weaknesses. We then survey the full spectrum of biological features they employed, from CRISPR spacer matching and prophage detection to alignment-free $k$-mer frequency analysis.
-    \vspace{-0.1cm}
-    \item \textbf{Rigorous benchmarking using carefully designed datasets:} Another key novelty is the development and application of two distinct evaluation benchmarks. \textbf{RefSeq-VHDB} provides a curated set of phage-host pairs for standardized assessment, while \textbf{MetaHiC-VHDB} consists of three independent metagenomic Hi-C test sets designed to assess tool performance in realistic ecological contexts. These benchmarks provide a practical guide for researchers and expose performance gaps that future methods must address.
-\end{itemize}
+1. **A standardized problem formulation:** We establish a structured framework for the virus-host prediction problem, providing a consistent foundation for understanding and comparing diverse computational strategies.
+
+2. **A comprehensive survey of tools and biological features:** We critically evaluate 27 existing tools, analyzing their methodologies, strengths, and weaknesses. We then survey the full spectrum of biological features they employed, from CRISPR spacer matching and prophage detection to alignment-free $k$-mer frequency analysis.
+
+3. **Rigorous benchmarking using carefully designed datasets:** Another key novelty is the development and application of two distinct evaluation benchmarks. **RefSeq-VHDB** provides a curated set of phage-host pairs for standardized assessment, while **MetaHiC-VHDB** consists of three independent metagenomic Hi-C test sets designed to assess tool performance in realistic ecological contexts. These benchmarks provide a practical guide for researchers and expose performance gaps that future methods must address.
 
 ## Instructions
 
