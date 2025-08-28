@@ -1,14 +1,29 @@
 # Computational approaches for virus-host prediction: A review of methods and applications
 
+<img src='Figures/intro.png'>
 
-This review provides a systematic analysis of the computational phage-host prediction landscape to address current challenges and offer a clear guide for researchers. Our key contributions are:
+By providing a rigorous, comparative analysis, this review serves two critical functions. First, it acts as a practical guide for researchers selecting the optimal tool for their work. Second, it establishes a foundational resource and a new performance benchmark intended to drive the next wave of innovation in deciphering the complex web of virus-host interactions.
 
+Our key contributions are:
 
-Formalizing the problem: We delineate the problem formulation of virus-host prediction, creating a clear and structured framework. This allows for a better understanding and comparison of different predictive approaches.
+\begin{itemize}
+    \item \textbf{A standardized problem formulation:} We establish a structured framework for the virus-host prediction problem, providing a consistent foundation for understanding and comparing diverse computational strategies.
+    \vspace{-0.1cm}
+    \item \textbf{A comprehensive survey of tools and biological features:} We critically evaluate 27 existing tools, analyzing their methodologies, strengths, and weaknesses. We then survey the full spectrum of biological features they employed, from CRISPR spacer matching and prophage detection to alignment-free $k$-mer frequency analysis.
+    \vspace{-0.1cm}
+    \item \textbf{Rigorous benchmarking using carefully designed datasets:} Another key novelty is the development and application of two distinct evaluation benchmarks. \textbf{RefSeq-VHDB} provides a curated set of phage-host pairs for standardized assessment, while \textbf{MetaHiC-VHDB} consists of three independent metagenomic Hi-C test sets designed to assess tool performance in realistic ecological contexts. These benchmarks provide a practical guide for researchers and expose performance gaps that future methods must address.
+\end{itemize}
 
-* Comprehensive survey of biological features: we present a comprehensive survey of the biological features that have been employed for prediction, detailing the principles behind methods such as direct sequence alignment, CRISPR spacer matching, and alignment-free k-mer frequency analysis.
-* Evaluation of existing tools: we summarize and critically evaluate existing prediction tools, analyzing their respective strengths and weaknesses. This serves as a practical guide for researchers in selecting the appropriate tool for their work.
-* Rigorous and extensive benchmarking: A key contribution is our rigorous and extensive benchmark of the leading prediction tools. For this, we developed two types of evaluation datasets. RefSeq-VHDB: created using curated phage-host pairs from the RefSeq database. MetaHiC: three independent test sets derived from metagenomic Hi-C (MetaHiC) data to assess performance in more realistic ecological contexts
+## Instructions
 
+This repository store the results reported in the paper. There are four main folder:
 
-By synthesizing the current literature and providing a rigorous, comparative performance analysis, this review aims to be a valuable resource that stimulates further innovation in deciphering the complex web of virus-host interactions.
+* Data: The raw data used in the experiments, including sequences and CSV files
+* Benchmark: The scripts/commands to run the host prediction tools and their outputs. We also provide a NoteBook to generate the results reported in the paper.
+* FeatureExploration: The intermidiate files for analyze biological features. We also provide a NoteBook to generate the results reported in the paper.
+* Figures: The figures used in the paper.
+
+Detiled information can be found via the README in each folder.
+
+### Contacts and bug reports
+Please feel free to send bug reports or questions to us. You can post an issue or directly email me (jiayushang@cuhk.edu.hk).
