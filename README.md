@@ -21,7 +21,7 @@ This repository store the results reported in the paper. There are four main fol
 * FeatureExploration: The intermidiate files for analyze biological features. We also provide a NoteBook to generate the results reported in the paper.
 * Figures: The figures used in the paper.
 
-Detiled information can be found via the README in each folder.
+Detiled information can be found via the README in each folder. The data can also be found via Zendo: https://doi.org/10.5281/zenodo.16975470
 
 ### Contacts and bug reports
 Please feel free to send bug reports or questions to us. You can post an issue or directly email me (jiayushang@cuhk.edu.hk).
