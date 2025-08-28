@@ -1,0 +1,67 @@
+Accession	Length	Host	CHERRYScore	Method	Host_NCBI_lineage	Host_GTDB_lineage
+k141_92791	17505	bin.142	0.8	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002351725
+k141_85772	8990	bin.117	1	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316565
+k141_78662	7030	bin.58	0.44	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316015
+k141_74712	11965	bin.58	0.31	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316015
+k141_723326	9049	bin.116	0.38	Kmer-based (MAG)	-	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__
+k141_717612	107146	bin.202	0.78	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-791;s__CAG-791 sp900320025
+k141_713558	17703	bin.42	0.33	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2912;s__UBA2912 sp900314775
+k141_692086	6013	-	0.6	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella
+k141_670737	40395	bin.60	0.68	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__RUG024;s__RUG024 sp900314765
+k141_65862	20630	-	0.71	-	-	-
+k141_654841	32056	bin.124	0.93	Kmer-based (MAG)	-	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__UBA2810;s__UBA2810 sp002351705
+k141_653841	42005	bin.213	0.43	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314985
+k141_633380	17259	bin.218	0.24	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_615364	67516	bin.149	0.63	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002251295
+k141_606847	8919	bin.218	0.34	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_604404	7927	-	-	-	-	-
+k141_600654	22638	bin.93	0.31	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314455
+k141_592939	31260	bin.183	0.88	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus pleomorphus
+k141_58206	24499	-	0.63	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella
+k141_560824	17640	bin.16	0.59	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900319905
+k141_551856	23435	bin.27	0.53	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Porcincola;s__Porcincola sp900318615
+k141_546823	28658	bin.28	0.52	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314365
+k141_515126	48774	bin.182	0.99	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp900321605
+k141_512666	42068	bin.206	0.51	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp902782305
+k141_512174	86893	bin.97	0.57	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus flavefaciens_R
+k141_511974	24799	bin.28	0.79	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314365
+k141_51103	27647	bin.218	0.3	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_499620	17777	bin.56	0.39	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__UBA2882 sp900317505
+k141_495676	12103	-	-		-	-
+k141_491733	10445	bin.218	0.62	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_473853	10626	-	0.69	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella
+k141_468667	168012	bin.81	0.8	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA1081;s__UBA1081 sp900314355
+k141_451442	5816	bin.161	0.29	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__P3;g__UBA1217;s__UBA1217 sp002371315
+k141_436336	39211	bin.204	0.43	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-791;s__CAG-791 sp900315055
+k141_42258	17126	bin.163	0.52	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Chordicoccus;s__Chordicoccus sp900315305
+k141_410106	11816	bin.82	1	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia;s__Bulleidia sp900319505
+k141_408028	4325	bin.206	0.25	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp902782305
+k141_397469	25361	-	-		-	-
+k141_384042	21548	bin.202	0.55	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-791;s__CAG-791 sp900320025
+k141_382420	4579	-	1	-	-	-
+k141_380889	11866	bin.99	0.3	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314195
+k141_378918	31500	bin.183	0.97	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus pleomorphus
+k141_375749	10825	bin.208	0.97	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia;s__Bulleidia intestinalis
+k141_373297	49246	-	-	-	-	-
+k141_36609	19720	bin.187	0.38	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316475
+k141_350968	60952	bin.16	0.47	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900319905
+k141_346380	14231	bin.99	0.33	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900314195
+k141_328215	13514	bin.218	0.77	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_307704	28808	bin.27	0.52	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Porcincola;s__Porcincola sp900318615
+k141_307074	5416	bin.27	0.33	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Porcincola;s__Porcincola sp900318615
+k141_306704	6495	bin.218	0.46	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp900314595
+k141_302077	32067	bin.58	0.56	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316015
+k141_28136	41975	bin.90	0.44	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Catonella;s__
+k141_261477	44568	bin.211	0.53	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-791;s__CAG-791 sp900318875
+k141_260063	7132	bin.55	0.94	Kmer-based (MAG)	-	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__Succinivibrio sp900315395
+k141_25538	13043	-	-	-	-	-
+k141_245127	36740	bin.23	0.38	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Oribacterium;s__Oribacterium sp900315665
+k141_240710	58185	bin.195	1	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Acidaminococcus;s__Acidaminococcus sp900315205
+k141_239066	44779	bin.217	0.59	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA2922;s__UBA2922 sp900313925
+k141_235238	28206	bin.165	1	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Acidaminococcus;s__Acidaminococcus sp900314165
+k141_19229	7117	bin.76	0.95	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Succiniclasticum;s__Succiniclasticum sp900316935
+k141_187880	7845	bin.71	0.3	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus sp900314215
+k141_179903	35244	bin.181	0.44	Kmer-based (MAG)	-	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900322095
+k141_146618	28007	bin.27	0.6	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Porcincola;s__Porcincola sp900318615
+k141_114268	71165	bin.27	0.4	Kmer-based (MAG)	-	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Porcincola;s__Porcincola sp900318615
+k141_111919	9814	-	-	-	-	-
