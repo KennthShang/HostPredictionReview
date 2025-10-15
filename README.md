@@ -14,14 +14,14 @@ Our key contributions are:
 
 ## Instructions
 
-This repository store the results reported in the paper. There are four main folder:
+This repository stores the results reported in the paper. There are four main folders:
 
 * Data: The raw data used in the experiments, including sequences and CSV files
 * Benchmark: The scripts/commands to run the host prediction tools and their outputs. We also provide a NoteBook to generate the results reported in the paper.
-* FeatureExploration: The intermidiate files for analyze biological features. We also provide a NoteBook to generate the results reported in the paper.
+* FeatureExploration: The intermediate files for analyzing biological features. We also provide a NoteBook to generate the results reported in the paper.
 * Figures: The figures used in the paper.
 
-Detiled information can be found via the README in each folder. The data can also be found via Zendo: https://doi.org/10.5281/zenodo.16975470
+Detailed information can be found via the README in each folder. The data can also be found via Zendo: https://doi.org/10.5281/zenodo.16975470
 
 ### Reproduce results
 
