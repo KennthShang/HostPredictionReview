@@ -10,7 +10,7 @@ There are four datasets in this folder:
 The datasets can be downloaded via: https://github.com/KennthShang/HostPredictionReview/releases
 
 
-## Update of the datasets
+## Update of the RefSeq-VHDB
 
 The current version of RefSeq-VHDB was created in Feb 2025. We will update and release the RefSeq-VHDB yearly through the GitHub Release page.
 
